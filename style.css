@@ -2,9 +2,15 @@
 
 * {
   margin: 0;
+<<<<<<< HEAD
   padding: 0px;
   box-sizing: border-box;
   text-decoration: none;
+=======
+  box-sizing: border-box;
+  text-decoration: none;
+  padding: 0px;
+>>>>>>> 5ef4c8a3349e967ad5acd41c513ab17d6d819923
 }
 
 header {
